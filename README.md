@@ -79,4 +79,4 @@ by onxx-x143 ❇️
    ```
 4. 𝙬𝙚𝙗𝙨𝙞𝙩𝙚 𝙇𝙞𝙣𝙠 𝙘𝙤𝙥𝙮 𝙠𝙖𝙧𝙚𝙞𝙣
       𝙏𝙚𝙧𝙢𝙞𝙣𝙖𝙡 𝙢𝙚 𝙠𝙪𝙘𝙝 𝙨𝙚𝙘𝙤𝙣𝙙𝙨 𝙗𝙖𝙖𝙙 𝙖𝙖𝙥𝙠𝙤 𝙡𝙞𝙣𝙠 𝙢𝙞𝙡𝙚𝙜𝙞 𝙟𝙖𝙞𝙨𝙚
-[![Netflix](https://img.shields.io/badge/Instagram-Follow%20Now-E4405F?style=for-the-badge&logo=Netflix&logoColor=white)](https://voxxo.netlify.app//voxxo.netlify.app/)
+[![Netflix](https://img.shields.io/badge/Instagram-Follow%20Now-E4405F?style=for-the-badge&logo=Netflix&logoColor=white)](https://voxxo.netlify.app//)
